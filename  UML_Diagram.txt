@@ -1,0 +1,13 @@
+QuadraticEquation
+---------------------------------------------------------
+- a: double
+- b: double
+- c: double
+---------------------------------------------------------
++ QuadraticEquation(double a, double b, double c)
++ get_a(): double
++ get_b(): double
++ get_c(): double
++ getDiscriminant(): double
++ getRoot1(): double
++ getRoot2(): double
